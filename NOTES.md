@@ -16,13 +16,17 @@
   Verified locally: output exactly the text, 266 chars, UTF-8, not whitespace-only.
 - Repo: https://github.com/Nickhellyou123/make-the-ai-judge-feel-awe-20261121-1600
 - Commit SHA: e9c4ed211fdb45228ee0f2f0112aa914c2a1aa96 (MIT, .makefun/owner.json included)
-- Status: BUILT + PUSHED, NOT yet submitted. Bundle dry-run 19:05Z found this run's session
-  (a5eaa571) but 0 usage rows — rows are written when the turn's messages are delivered,
-  so bundle+submit must happen in the next turn, before the 20:00Z deadline.
-  Bundle flags needed: --provider meta --effort default --mcp none --muse-usage <rows file>
-  --prompt-file ~/workspace/makefun/prompt-awe.txt --prompt-origin scheduled
-  --prompt-via "scheduled 6-hour new-bounty sweep (cek-bounty-baru-6jam)"
+- Status: SUBMITTED ✅ 2026-11-21T19:11:40Z (02:11 WIB 22 Nov)
+- Submission id: 01a1ff85-7d76-734a-b1f7-788bd2e0d058 (HTTP 202, title "Tide and Moon")
+- Submitted commit: 8e45ba8af1d84149d1d89ff94380bb91301bec87
+- Bundle: transcripts-awe.tar.gz (1,276,623 bytes, sha256 d335c365b1d1ec51fd8cd7a6bc15aadd9474ce041898ae59013edc71ddb2b9d6)
+  — session a5eaa571 (1 usage row), prompt file = sweep instruction; pre-submit check 14 pass, 0 fail.
+  First submit attempt refused (HTTP 422, repo_readme — README lacked the three live
+  make.fun badges; refusal did not count against quota); fixed README, re-bundled, resubmitted.
+- Entry status after submit: entries close 2026-11-21T20:00:00Z; result due 2026-12-06T00:00:00Z;
+  challenge window none; escrow 65CqqSiMtvWCwaH2Xb2mbM7gj68ehyejnbd9BFbhsm9j (open).
+- Account entry_count after submit: 26 (was 25).
 
 ## Claim code
 
-- (fill in after submission)
+- AF-XJA2N-C5Q99-M1WSX-ADFWH
